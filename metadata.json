@@ -1,0 +1,6 @@
+{
+  "name": "Eden Clean UK",
+  "description": "Premium house and commercial cleaning services across the UK. 4.8 star rated, DBS checked, eco-friendly luxury cleaning for bedrooms, lounges, lobbies, and residences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
